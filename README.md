@@ -1,2 +1,2 @@
 # gaziyav-deck
-Gaziyav — the video editor you talk to. Investor deck (PDF).
+Investor deck (PDF) for Gaziyav, the open-source video editor you talk to.
